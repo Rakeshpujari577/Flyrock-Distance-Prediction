@@ -1,0 +1,156 @@
+2024-03-20 19:40:40,699 - pyswarms.discrete.binary - INFO - Optimize for 35 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2024-03-20 19:40:45,527 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:41:17,097 - pyswarms.discrete.binary - INFO - Optimize for 35 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2024-03-20 19:41:19,425 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:41:40,503 - pyswarms.discrete.binary - INFO - Optimize for 35 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2024-03-20 19:41:42,847 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:42:41,742 - pyswarms.discrete.binary - INFO - Optimize for 35 iters with {'c1': 0.2, 'c2': 0.2, 'w': 0.5, 'k': 3, 'p': 2}
+2024-03-20 19:42:44,273 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:43:18,262 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:43:18,934 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [0 1 1 1 1 1]
+2024-03-20 19:43:25,432 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:43:26,229 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [0 1 1 1 1 1]
+2024-03-20 19:43:31,947 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:43:32,604 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.92, best pos: [1 1 1 1 0 0]
+2024-03-20 19:44:15,912 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:44:16,568 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 0 1 1]
+2024-03-20 19:50:14,792 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:50:15,464 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:50:16,058 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:50:50,114 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:50:50,755 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:50:51,317 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:52:13,265 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:52:13,937 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:52:14,502 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:53:06,707 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:53:07,395 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:53:07,957 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:53:57,930 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:53:59,012 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [0 0 0 0 0 0]
+2024-03-20 19:54:27,760 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:54:28,510 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 0 1 1]
+2024-03-20 19:54:29,057 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:55:17,839 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:55:18,510 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:55:19,057 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:55:57,778 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:55:58,435 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 19:55:59,004 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 19:56:42,805 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 19:56:43,462 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 1 0 1]
+2024-03-20 19:56:44,337 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 20:18:49,834 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:18:50,725 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 20:18:58,503 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:18:59,191 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [0 0 0 0 0 0]
+2024-03-20 20:19:05,785 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:19:06,675 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 0 1 1]
+2024-03-20 20:19:09,316 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 20:49:46,994 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:49:47,682 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 20:49:53,527 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:49:54,199 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 1 0 1]
+2024-03-20 20:50:44,593 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 20:52:46,600 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:52:47,287 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.92, best pos: [1 1 1 1 0 0]
+2024-03-20 20:52:50,006 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 20:53:17,457 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:53:18,129 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 0 1 1 1]
+2024-03-20 20:53:50,581 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:53:51,279 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 1 1 0]
+2024-03-20 20:54:35,170 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:54:35,842 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 20:54:40,795 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:54:41,498 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.92, best pos: [1 1 1 0 1 0]
+2024-03-20 20:54:43,372 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2024-03-20 20:55:08,092 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:55:08,779 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2024-03-20 20:55:13,404 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:55:14,092 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 0 1 1 1]
+2024-03-20 20:57:45,849 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:57:46,552 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [0 0 0 0 0 0]
+2024-03-20 20:57:51,044 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:57:51,872 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [0 0 0 0 0 0]
+2024-03-20 20:57:56,723 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2024-03-20 20:57:57,411 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 1 0 1]
+2024-03-20 20:57:59,067 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-04-14 11:10:01,335 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-04-14 11:10:01,601 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 0 1 1 1 1]
+2025-04-14 11:10:04,239 - tensorflow - WARNING - From C:\Users\Dell\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-04-14 11:16:23,442 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-04-14 11:16:23,686 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-04-14 11:16:34,366 - tensorflow - WARNING - From C:\Users\LENOVO\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-04-14 12:41:37,402 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-04-14 12:41:37,680 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 0 1 1 1 1]
+2025-04-14 12:41:42,477 - tensorflow - WARNING - From C:\Users\LENOVO\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-04-21 15:24:22,020 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-04-21 15:24:22,551 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-04-21 15:24:29,190 - tensorflow - WARNING - From C:\Users\LENOVO\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-04-25 13:03:39,634 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-04-25 13:03:39,832 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 0 1 1 1 1]
+2025-04-25 13:03:42,870 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-04-25 13:19:30,494 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-04-25 13:19:30,730 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [0 1 1 1 1 1]
+2025-04-25 13:20:27,061 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-04 21:28:21,768 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-04 21:28:21,968 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [0 0 0 0 0 0]
+2025-05-04 21:30:53,620 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-04 21:30:53,763 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [0 1 1 1 1 1]
+2025-05-04 21:30:56,333 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-06 18:07:31,233 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-06 18:07:31,348 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-05-06 18:08:58,739 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-09 18:11:35,239 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-09 18:11:35,369 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-05-09 18:11:41,137 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-10 09:16:21,665 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-10 09:16:21,777 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-05-10 09:16:46,029 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-10 09:16:46,137 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-05-10 09:16:55,473 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-10 09:16:55,582 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-05-10 09:17:18,534 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-10 09:18:43,111 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-10 09:18:43,315 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 1 0 1]
+2025-05-10 09:19:28,793 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-10 09:22:09,815 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-10 09:22:09,996 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [0 1 1 1 1 1]
+2025-05-10 09:22:57,878 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-05-10 14:37:18,006 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-05-10 14:37:18,209 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 0 1 1 1]
+2025-05-10 14:37:27,285 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2025-06-06 21:23:42,039 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-06-06 21:23:42,257 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [0 0 0 0 0 0]
+2025-06-06 21:24:12,598 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-06-06 21:24:12,815 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.88, best pos: [1 1 1 1 1 1]
+2025-06-06 21:24:23,508 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.9, 'c2': 0.9, 'w': 0.5, 'k': 5, 'p': 2}
+2025-06-06 21:24:23,617 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.9, best pos: [1 1 1 1 0 1]
+2025-06-06 21:24:26,579 - tensorflow - WARNING - From C:\Users\pujar\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
